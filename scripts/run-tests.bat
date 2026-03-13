@@ -1,0 +1,2 @@
+@echo off
+newman run "..\collections\Restful-Boooker-Tests.postman_collection.json" -e "..\environments\Restful-Booker-Env.postman_environment.json" -r htmlextra --reporter-htmlextra-export "..\reports\test-report.html"
