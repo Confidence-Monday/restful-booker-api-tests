@@ -1,2 +1,3 @@
 @echo off
-newman run "..\collections\Restful-Boooker-Tests.postman_collection.json" -e "..\environments\Restful-Booker-Env.postman_environment.json" -r htmlextra --reporter-htmlextra-export "..\reports\test-report.html"
+cd "C:\Users\USER\Documents\restfulbooker-newman"
+newman run "C:\Users\USER\Documents\restfulbooker-newman\collections\Restful-Boooker-Tests.postman_collection.json" -e "C:\Users\USER\Documents\restfulbooker-newman\environments\Restful-Booker-Env.postman_environment.json" -r htmlextra --reporter-htmlextra-export "C:\Users\USER\Documents\restfulbooker-newman\reports\test-report.html" --iteration-count 2
