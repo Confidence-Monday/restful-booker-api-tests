@@ -1,17 +1,18 @@
 **DESCRIPTION**
 
-This project contains a complete API test suite for the Restful Booker application using Postman. It includes Authentication, CRUD operations, Negative testing, and Edge case validation.
+This project contains a comprehensive API test suite for the Restful Booker application with Postman and automated using Newman. 
 
 
 
 **OBJECTIVE**
 
-The goal of this project is to design a clan strustured, and reusable API test suite that validates;
+This project validates the core functionality of the Restful Booker API in Postman. It covers;
 
 * Authentication Flow
 * Booking lifecycle - Create, Retrieve, Update, Delete (CRUD)
 * Negative handling (Error handling)
 * Edge cases and boundary conditions
+* Mock server testing using Postman's mock server feature.
 
 
 
@@ -21,6 +22,9 @@ The goal of this project is to design a clan strustured, and reusable API test s
  * Postman Collection Runner
  * Restful Booker API
  * JavaScript (Postman test scripts)
+ * Newman
+ * Node.js
+ * Notebook
 
 
 
