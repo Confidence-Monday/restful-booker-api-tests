@@ -6,7 +6,7 @@ This project contains a comprehensive API test suite for the Restful Booker appl
 
 **OBJECTIVE**
 
-This project validates the core functionality of the Restful Booker API in Postman. It covers;
+This project validates the core functionality of the Restful Booker API in Postman, covering;
 
 * Authentication Flow
 * Booking lifecycle - Create, Retrieve, Update, Delete (CRUD)
