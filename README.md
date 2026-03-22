@@ -21,3 +21,13 @@ The goal of this project is to design a clan strustured, and reusable API test s
  * Postman Collection Runner
  * Restful Booker API
  * JavaScript (Postman test scripts)
+
+
+
+**SETUP INSTRUCTIONS**
+
+1. Import Collection
+
+   * Open Postman
+   * Click "**Import"**
+   * Select the collection file from `/postman/collection.json`
